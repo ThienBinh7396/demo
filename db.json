@@ -1,8 +1,10 @@
-[{
-  id: 'xxx',
-  label: 'xxx'
-},
-{
-  id: 'yyy',
-  label: 'yyy'
-}]
+[
+  {
+    "id": "xxx",
+    "label": "xxx"
+  },
+  {
+    "id": "yyy",
+    "label": "yyy"
+  }
+]
