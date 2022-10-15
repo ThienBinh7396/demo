@@ -1,10 +1,12 @@
-[
-  {
-    "id": "xxx",
-    "label": "xxx"
-  },
-  {
-    "id": "yyy",
-    "label": "yyy"
-  }
-]
+{
+  "data": [
+    {
+      "id": "xxx",
+      "label": "xxx"
+    },
+    {
+      "id": "yyy",
+      "label": "yyy"
+    }
+  ]
+}
